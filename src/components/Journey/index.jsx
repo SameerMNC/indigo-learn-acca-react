@@ -7,7 +7,7 @@ const Journey = () => {
             <p className="font-semibold text-blue-200">Start Learning Today</p>
 
             <h2 className="mt-2 text-3xl font-bold md:text-4xl">
-              Kick off your ACCA Prep journey with IndigoLearn
+              Start off your ACCA Prep journey with IndigoLearn
             </h2>
 
             <p className="mt-5 max-w-xl text-lg leading-8 text-blue-100">
